@@ -1,14 +1,14 @@
 ### Basic Banking System using ***Laravel 11***
-**Individual Account:**
-    •	Designed for personal use.
-    •	Offers a certain amount of free withdrawals each month.
-    •	Charges a 1.5% fee on withdrawals exceeding the free limit.
-    •	Special benefit: Free withdrawals on Fridays.
-**Business Account:**
-    •	Tailored for business transactions.
-    •	Allows higher withdrawal limits.
-    •	Charges a 1.5% fee on withdrawals after reaching a total of 50,000.
-    •	Provides a more flexible structure for managing larger sums of money.
+    **Individual Account:**
+        •	Designed for personal use.
+        •	Offers a certain amount of free withdrawals each month.
+        •	Charges a 1.5% fee on withdrawals exceeding the free limit.
+        •	Special benefit: Free withdrawals on Fridays.
+    **Business Account:**
+        •	Tailored for business transactions.
+        •	Allows higher withdrawal limits.
+        •	Charges a 1.5% fee on withdrawals after reaching a total of 50,000.
+        •	Provides a more flexible structure for managing larger sums of money.
 
 ### Requirements:
     "php": "^8.2"
